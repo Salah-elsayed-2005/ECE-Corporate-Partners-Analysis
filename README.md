@@ -7,11 +7,7 @@
 This report is for the corporate program application.
 
 ## Key Figures
-- [Tiered vs Non-tiered](plots/tiered_vs_notier.png)
-- [Fee Transparency](plots/fee_transparency.png)
-- [Public Partner Counts (where known)](plots/partners_per_institution.png)
-- [Fee Notes Presence](plots/fee_notes_presence.png)
-
+- Key figures are present in the plot/ directory
 ## Notes on Data
 - Institutions and several values originated from the provided assignment document and were cross-checked on public program pages where possible.
 - Partner counts are included where explicitly public. Other fields are left blank when not verifiable from public pages.
@@ -21,3 +17,4 @@ This report is for the corporate program application.
 - `analysis.ipynb` — notebook generating all graphics and conclusions
 - `plots/` — exported PNGs
 
+## The task was func but challenging as it was hard to find resources and turn them into numerical data for visualisations
